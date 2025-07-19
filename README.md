@@ -56,7 +56,7 @@ To classify static hand gestures in real time from a webcam feed using a CNN tra
 
 ## 🛠️ Dependencies
 Install all required packages:
-- tensorflow
+- tensorflow>=2.8.0
 
 - opencv-python
 
